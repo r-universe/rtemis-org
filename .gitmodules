@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/rtemis-org/rtemis-org.r-universe.dev
 	branch = HEAD
+[submodule "rtemis"]
+	path = rtemis
+	url = https://github.com/rtemis-org/rtemis
+[submodule "rtemisutils"]
+	path = rtemisutils
+	url = https://github.com/rtemis-org/rtemisutils
