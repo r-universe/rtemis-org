@@ -5,6 +5,9 @@
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/rtemis-org/rtemis
+[submodule "rtemisbio"]
+	path = rtemisbio
+	url = https://github.com/rtemis-org/rtemisbio
 [submodule "rtemisutils"]
 	path = rtemisutils
 	url = https://github.com/rtemis-org/rtemisutils
