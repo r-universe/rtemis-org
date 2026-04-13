@@ -15,6 +15,10 @@
 [submodule "rtemis.core"]
 	path = rtemis.core
 	url = https://github.com/rtemis-org/rtemis.core
+[submodule "rtemis.draw"]
+	path = rtemis.draw
+	url = https://github.com/rtemis-org/draw
+	subdir = r
 [submodule "rtemis.utils"]
 	path = rtemis.utils
 	url = https://github.com/rtemis-org/rtemis.utils
