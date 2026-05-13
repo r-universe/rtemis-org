@@ -9,9 +9,6 @@
 	path = rtemis.a3
 	url = https://github.com/rtemis-org/a3
 	subdir = r
-[submodule "rtemis.bio"]
-	path = rtemis.bio
-	url = https://github.com/rtemis-org/rtemis.bio
 [submodule "rtemis.core"]
 	path = rtemis.core
 	url = https://github.com/rtemis-org/rtemis.core
@@ -23,6 +20,3 @@
 	path = rtemis.llm
 	url = https://github.com/rtemis-org/llm
 	subdir = r
-[submodule "rtemis.utils"]
-	path = rtemis.utils
-	url = https://github.com/rtemis-org/rtemis.utils
