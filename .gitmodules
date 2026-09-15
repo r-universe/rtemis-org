@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rtemis-org/rtemis-org.r-universe.dev
 	branch = HEAD
+[submodule "infoveillance"]
+	path = infoveillance
+	url = https://github.com/rtemis-org/infoveillance
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/rtemis-org/rtemis
