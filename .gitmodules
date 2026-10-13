@@ -15,6 +15,9 @@
 [submodule "rtemis.core"]
 	path = rtemis.core
 	url = https://github.com/rtemis-org/rtemis.core
+[submodule "rtemis.dplot3"]
+	path = rtemis.dplot3
+	url = https://github.com/rtemis-org/rtemis.dplot3
 [submodule "rtemis.draw"]
 	path = rtemis.draw
 	url = https://github.com/rtemis-org/draw
