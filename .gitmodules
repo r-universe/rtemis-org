@@ -29,6 +29,9 @@
 	path = rtemis.llm
 	url = https://github.com/rtemis-org/llm
 	subdir = r
+[submodule "rtemis.ml"]
+	path = rtemis.ml
+	url = https://github.com/rtemis-org/rtemis.ml
 [submodule "rtemis.server"]
 	path = rtemis.server
 	url = https://github.com/rtemis-org/rtemis.server
