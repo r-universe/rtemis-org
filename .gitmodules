@@ -6,6 +6,10 @@
 	path = R8
 	url = https://github.com/rtemis-org/r8
 	subdir = r
+[submodule "R8.io"]
+	path = R8.io
+	url = https://github.com/rtemis-org/r8
+	subdir = r-io
 [submodule "croissant"]
 	path = croissant
 	url = https://github.com/rtemis-org/croissant
